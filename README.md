@@ -1,4 +1,4 @@
-# 🌥️ ECS Summary Project
+# 🌥️ Huawei-cloud-data-extractor
 
 ## 📖 Description
 This project retrieves information about Elastic Cloud Servers (ECS) from Huawei Cloud and saves the data to a JSON file. It fetches details like server specifications, flavors, network interfaces, security groups, and more.
@@ -12,7 +12,7 @@ This project retrieves information about Elastic Cloud Servers (ECS) from Huawei
 1. **Clone the repository or download the project files.**
    ```bash
    git clone https://github.com/jenilv-07/ECS-Summary-Project.git
-   cd ECS-Summary-Project
+   cd huawei-cloud-data-extractor
    ```
 
 2. **Create a virtual environment.**
