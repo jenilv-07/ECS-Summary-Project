@@ -76,7 +76,7 @@ This project retrieves information about Elastic Cloud Servers (ECS) from Huawei
 6. **Run the project.** 🚀
    After setting everything up, you can run the project:
    ```bash
-   python your_script_name.py
+   python ecs_instance_reporter.py
    ```
 
 ## 💾 Output
