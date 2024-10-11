@@ -12,7 +12,7 @@ This project retrieves information about Elastic Cloud Servers (ECS) from Huawei
 1. **Clone the repository or download the project files.**
    ```bash
    git clone https://github.com/jenilv-07/ECS-Summary-Project.git
-   cd ECS-Summary-Project.git
+   cd ECS-Summary-Project
    ```
 
 2. **Create a virtual environment.**
